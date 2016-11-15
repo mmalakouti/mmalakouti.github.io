@@ -1,0 +1,8 @@
+#hero-img {
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(114,178,238,1)), color-stop(21%, rgba(114,178,238,1)), color-stop(82%, rgba(68,145,233,1)), color-stop(100%, rgba(68,145,233,1)));
+background: -webkit-linear-gradient(left, rgba(114,178,238,1) 0%, rgba(114,178,238,1) 21%, rgba(68,145,233,1) 82%, rgba(68,145,233,1) 100%);
+background: -o-linear-gradient(left, rgba(114,178,238,1) 0%, rgba(114,178,238,1) 21%, rgba(68,145,233,1) 82%, rgba(68,145,233,1) 100%);
+background: -ms-linear-gradient(left, rgba(114,178,238,1) 0%, rgba(114,178,238,1) 21%, rgba(68,145,233,1) 82%, rgba(68,145,233,1) 100%);
+background: linear-gradient(to right, rgba(114,178,238,1) 0%, rgba(114,178,238,1) 21%, rgba(68,145,233,1) 82%, rgba(68,145,233,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#72b2ee', endColorstr='#4491e9', GradientType=1 );
+}
